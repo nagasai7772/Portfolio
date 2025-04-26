@@ -3,7 +3,7 @@ import Javascript from '../assets/Javascript.webp'
 import icon_react from "/icon_react.png";
 import tailwindcss from "/tailwindcss.png";
 import nodejs from "../assets/nodejs.png";
-import mysqlLogo from "../assets/MYSQL.png";
+import mysqlLogo from "../assets/MySQL.png"
 import MongoDB from "../assets/MONGO-DB.png";
 import Github from "../assets/github-Logo.png";
 import Expressjs from "../assets/express-js-logo.png";
