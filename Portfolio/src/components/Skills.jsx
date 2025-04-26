@@ -3,7 +3,7 @@ import Javascript from '../assets/Javascript.webp'
 import icon_react from "/icon_react.png";
 import tailwindcss from "/tailwindcss.png";
 import nodejs from "../assets/nodejs.png";
-import Mysql from "../assets/MYSQL.png";
+import MYSQL from "../assets/MYSQL.png";
 import MongoDB from "../assets/MONGO-DB.png";
 import Github from "../assets/github-Logo.png";
 import Expressjs from "../assets/express-js-logo.png";
@@ -36,7 +36,7 @@ const skillsData = [
   },
   {
     id: 4,
-    image: Mysql,
+    image: MYSQL,
     title: "My SQL",
     description:<hr className="w-32 h-1 bg-white border-none rounded-lg " />
   },
