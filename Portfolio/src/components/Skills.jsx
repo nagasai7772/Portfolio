@@ -94,7 +94,7 @@ export default function Skills() {
       >
         <header>
           <h1 className="text-3xl sm:text-4xl font-bold">
-            My Experise <br /> and{" "}
+            My Expertise <br /> and{" "}
             <span className="text-purple-400">Skills</span>
           </h1>
           <p className="text-gray-400 mt-2 sm:mt-4 text-sm sm:text-base">
